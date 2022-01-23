@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\bin\Debug\EmpWageCompetation.exe.config
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\bin\Debug\EmpWageCompetation.exe
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\bin\Debug\EmpWageCompetation.pdb
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\obj\Debug\EmpWageCompetation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\obj\Debug\EmpWageCompetation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\obj\Debug\EmpWageCompetation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\obj\Debug\EmpWageCompetation.exe
+C:\Users\Lenovo\source\repos\EmployeeWageComputation\EmpWageCompetation\obj\Debug\EmpWageCompetation.pdb
